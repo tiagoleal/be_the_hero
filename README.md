@@ -24,8 +24,6 @@
   
 </p>
 
-Secret friend app allows you to automatically raffle a secret friend and send the information of the one you raffled by email.
-
 ## Web
 
 ![](https://github.com/tiagoleal/be_the_hero/blob/master/frontend/src/assets/web.gif)
