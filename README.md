@@ -32,7 +32,7 @@ Secret friend app allows you to automatically raffle a secret friend and send th
 
 ## Mobile
 
-![](https://github.com/tiagoleal/be_the_hero/blob/master/frontend/src/assets/web.gif)
+![](https://github.com/tiagoleal/be_the_hero/blob/master/mobile/assets/mobile.gif)
 
 ## Stack the Project
 
