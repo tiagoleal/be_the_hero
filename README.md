@@ -57,7 +57,7 @@ You must have installed on your machine:
 
 ### Installing
 
-First step is to install the docker service:
+First step is to install the node:
 
 ```bash
 # Using Ubuntu
